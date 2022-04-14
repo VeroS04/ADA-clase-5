@@ -1,0 +1,43 @@
+.container {
+    width: 500px;
+    height: 30px;
+    padding: 3px;
+    margin-top: 1%;
+    background-color: gainsboro;
+    border-radius: 100px;
+}
+
+.contenido1 {
+    width: 10%;
+    height: 90%;
+    background-color: greenyellow;
+    border-radius: 100px;
+}
+
+.contenido2 {
+    width: 25%;
+    height: 90%;
+    background-color: greenyellow;
+    border-radius: 100px;
+}
+
+.contenido3 {
+    width: 50%;
+    height: 90%;
+    background-color: greenyellow;
+    border-radius: 100px;
+}
+
+.contenido4 {
+    width: 75%;
+    height: 90%;
+    background-color: greenyellow;
+    border-radius: 100px;
+}
+
+.contenido5 {
+    width: 90%;
+    height: 90%;
+    background-color: greenyellow;
+    border-radius: 100px;
+}
